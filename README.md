@@ -17,14 +17,9 @@
         "iam": "../../../../icons/folder-iam"
     },
     ```
+    
+    > **Note**
+    > If you want to use an existing icon provided by `Material Icon Theme`. It should look like `../../../icons/folder-xxx`
 
-    {% Note %}
-
-    **Note:** If you want to use an existing icon provided by `Material Icon Theme`. It should look like
-    ```
-    ../../../icons/folder-xxx
-    ```
-
-    {% endnote %}
 
 4. Restart Vscode and your new Icon should appear!
